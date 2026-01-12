@@ -31,4 +31,3 @@ Each project folder includes:
 ## Skills Highlighted
 Networking fundamentals, enterprise network design, access control,
 routing and switching, and network troubleshooting.
-
