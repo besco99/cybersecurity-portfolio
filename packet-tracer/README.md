@@ -1,33 +1,41 @@
-# Packet Tracer Projects
+# Packet Tracer – Networking & Infrastructure Labs
 
-This folder contains hands-on networking labs built using Cisco Packet Tracer.
-The projects focus on enterprise networking concepts commonly used in
-SOC, network administration, and cybersecurity environments.
+## Overview
 
-## What These Labs Demonstrate
-- Network design and documentation
-- VLAN segmentation and trunking
+This section contains hands-on networking labs built using Cisco Packet Tracer as part of Cisco Networking Essentials 2.0.
+
+These labs simulate real-world enterprise networking environments and demonstrate practical experience in routing, switching, segmentation, IP addressing, secure device configuration, and troubleshooting.
+
+This portfolio reflects applied networking skills relevant to IT Support, NOC, SOC, and Junior Network Administrator roles.
+
+---
+
+## Core Skills Demonstrated
+
+- LAN design and topology deployment
+- IPv4 and IPv6 addressing
+- VLAN configuration and trunking
 - Inter-VLAN routing
-- NAT and basic firewall concepts
-- IP addressing and subnetting
-- Troubleshooting connectivity issues
+- DHCP configuration
+- NAT implementation
+- Access Control Lists (ACLs)
+- SSH secure device management
+- Cisco IOS CLI navigation
+- Structured network troubleshooting
+
+---
 
 ## Tools Used
+
 - Cisco Packet Tracer
-- Cisco IOS (simulated)
+- Cisco IOS CLI
+- Windows Command Line (ipconfig, ping, tracert)
+- Wireshark (when applicable)
 
-## Project Structure
-Each project folder includes:
-- A `.pkt` topology file
-- A short README explaining the objective and configuration
-- Screenshots of the network topology (when applicable)
+---
 
-## Example Projects
-- VLAN Segmentation Network
-- Inter-VLAN Routing Lab
-- NAT Configuration Lab
-- Basic Firewall & ACL Lab
-
-## Skills Highlighted
-Networking fundamentals, enterprise network design, access control,
-routing and switching, and network troubleshooting.
+Each project folder contains:
+- `.pkt` file
+- Project README
+- Configuration screenshots
+- Verification outputs
