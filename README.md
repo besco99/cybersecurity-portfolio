@@ -8,6 +8,9 @@ and blue team fundamentals.
 - TryHackMe SOC and security rooms
 - Security-related scripts and documentation
 
+## WGU MSCSIA Labs
+- [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
+
 ## Skills Demonstrated
 - Network segmentation and routing
 - SIEM alert triage and log analysis
