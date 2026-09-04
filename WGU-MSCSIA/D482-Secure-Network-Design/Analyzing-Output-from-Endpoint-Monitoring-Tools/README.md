@@ -20,6 +20,10 @@ The exercise emphasized defensive analysis and incident investigation. No malwar
 - Windows Event Viewer
 - Metasploit Framework in a controlled simulation
 
+![Hyper-V Manager showing the isolated virtual machines used for the endpoint-monitoring lab](images/hyper-v-lab-environment.png)
+
+*Figure 1 — Hyper-V lab environment with the Windows endpoint and supporting infrastructure running.*
+
 ## Objectives
 
 - Analyze packet captures for transferred files and suspicious hosts.
@@ -34,6 +38,10 @@ The exercise emphasized defensive analysis and incident investigation. No malwar
 ## Scenario
 
 A controlled phishing page presented a modified executable as legitimate software. The lab simulated a user downloading and running the file while a testing system listened for a reverse connection. This demonstrated how an attacker may take advantage of trusted-looking metadata and permissive outbound filtering.
+
+![Simulated IT support portal used as the phishing landing page in the isolated lab](images/simulated-phishing-landing-page.png)
+
+*Figure 2 — Simulated support portal used to demonstrate social engineering and Trojan delivery in the isolated lab.*
 
 All activity occurred in an authorized, isolated training environment. The sample was not executed outside the lab, and no malicious files are stored in this portfolio.
 
