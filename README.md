@@ -10,6 +10,7 @@ and blue team fundamentals.
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
+- [D482 Secure Network Design - Analyzing Output from Endpoint Monitoring Tools](WGU-MSCSIA/D482-Secure-Network-Design/Analyzing-Output-from-Endpoint-Monitoring-Tools/)
 
 ## Skills Demonstrated
 - Network segmentation and routing
