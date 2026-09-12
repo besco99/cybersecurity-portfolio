@@ -13,6 +13,7 @@ and blue team fundamentals.
 - [D482 Secure Network Design - Analyzing Output from Endpoint Monitoring Tools](WGU-MSCSIA/D482-Secure-Network-Design/Analyzing-Output-from-Endpoint-Monitoring-Tools/)
 - [D482 Secure Network Design - Network Security - Firewalls](WGU-MSCSIA/D482-Secure-Network-Design/Network-Security-Firewalls/)
 - [D482 Secure Network Design - Network Management](WGU-MSCSIA/D482-Secure-Network-Design/Network-Management/)
+- [D482 Secure Network Design - Assessing the Impact of Web Application Vulnerabilities](WGU-MSCSIA/D482-Secure-Network-Design/Assessing-the-Impact-of-Web-Application-Vulnerabilities/)
 
 ## Skills Demonstrated
 - Network segmentation and routing
