@@ -8,6 +8,9 @@ and blue team fundamentals.
 - TryHackMe SOC and security rooms
 - Security-related scripts and documentation
 
+## Cybersecurity Labs
+- [Simulated Password Cracking](labs/Simulated-Password-Cracking/)
+
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
 - [D482 Secure Network Design - Analyzing Output from Endpoint Monitoring Tools](WGU-MSCSIA/D482-Secure-Network-Design/Analyzing-Output-from-Endpoint-Monitoring-Tools/)
