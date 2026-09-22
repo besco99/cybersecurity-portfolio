@@ -81,10 +81,6 @@ A later migration into a compatible long-running process succeeded. I verified t
 
 From a defensive perspective, the important lesson is not which process was selected, but how the behavior appears in telemetry: one process accesses another, modifies memory or execution state, and causes activity that does not match the target process's normal role.
 
-![Controlled Meterpreter process listing showing a denied migration followed by a successful migration](images/process-migration-validation.png)
-
-*Figure 1 - Controlled process-migration validation in the isolated lab. The screenshot contains only built-in service identities and session-specific process data.*
-
 ## Defensive Indicators
 
 Potential indicators of process injection or migration include:
