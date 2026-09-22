@@ -12,6 +12,7 @@ and blue team fundamentals.
 - [Simulated Password Cracking](labs/Simulated-Password-Cracking/)
 - [Simulated Windows Post-Exploitation and Privilege Analysis](labs/Simulated-Windows-Post-Exploitation/)
 - [Process Injection and Migration Analysis](labs/Process-Injection-and-Migration-Analysis/)
+- [Buffer Overflow Analysis and Mitigation](labs/Buffer-Overflow-Analysis-and-Mitigation/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
