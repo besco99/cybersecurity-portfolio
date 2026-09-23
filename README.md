@@ -16,6 +16,7 @@ and blue team fundamentals.
 - [Web Directory Enumeration and Content Discovery](labs/Web-Directory-Enumeration-and-Content-Discovery/)
 - [SQL Injection and Authentication Bypass Analysis](labs/SQL-Injection-and-Authentication-Bypass-Analysis/)
 - [API Security Testing and JWT Risk Analysis](labs/API-Security-Testing-and-JWT-Risk-Analysis/)
+- [Web Vulnerability Scanning and Proxy-Based Analysis](labs/Web-Vulnerability-Scanning-and-Proxy-Based-Analysis/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
