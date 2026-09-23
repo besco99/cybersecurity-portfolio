@@ -14,6 +14,7 @@ and blue team fundamentals.
 - [Process Injection and Migration Analysis](labs/Process-Injection-and-Migration-Analysis/)
 - [Buffer Overflow Analysis and Mitigation](labs/Buffer-Overflow-Analysis-and-Mitigation/)
 - [Web Directory Enumeration and Content Discovery](labs/Web-Directory-Enumeration-and-Content-Discovery/)
+- [SQL Injection and Authentication Bypass Analysis](labs/SQL-Injection-and-Authentication-Bypass-Analysis/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
