@@ -18,6 +18,7 @@ and blue team fundamentals.
 - [API Security Testing and JWT Risk Analysis](labs/API-Security-Testing-and-JWT-Risk-Analysis/)
 - [Web Vulnerability Scanning and Proxy-Based Analysis](labs/Web-Vulnerability-Scanning-and-Proxy-Based-Analysis/)
 - [AWS Cloud Security Audit Report Analysis](labs/AWS-Cloud-Security-Audit-Report-Analysis/)
+- [Bash Automation for Authentication Security Testing](labs/Bash-Automation-for-Authentication-Security-Testing/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
