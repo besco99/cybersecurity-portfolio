@@ -23,6 +23,7 @@ and blue team fundamentals.
 - [SMB Share Enumeration and Exposure Analysis](labs/SMB-Share-Enumeration-and-Exposure-Analysis/)
 - [Scapy Network Discovery and SYN Flood Traffic Analysis](labs/Scapy-Network-Discovery-and-SYN-Flood-Traffic-Analysis/)
 - [Ncat Bind and Reverse Shell Traffic Analysis](labs/Ncat-Bind-and-Reverse-Shell-Traffic-Analysis/)
+- [Remote Access Trojan Delivery and Keylogging Analysis](labs/Remote-Access-Trojan-Delivery-and-Keylogging-Analysis/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
