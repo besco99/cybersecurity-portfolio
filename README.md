@@ -25,6 +25,7 @@ and blue team fundamentals.
 - [Ncat Bind and Reverse Shell Traffic Analysis](labs/Ncat-Bind-and-Reverse-Shell-Traffic-Analysis/)
 - [Remote Access Trojan Delivery and Keylogging Analysis](labs/Remote-Access-Trojan-Delivery-and-Keylogging-Analysis/)
 - [Proxy Routing and Tor Traffic Privacy Analysis](labs/Proxy-Routing-and-Tor-Traffic-Privacy-Analysis/)
+- [Nmap and Greenbone Vulnerability Assessment](labs/Nmap-and-Greenbone-Vulnerability-Assessment/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
