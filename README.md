@@ -27,6 +27,7 @@ and blue team fundamentals.
 - [Proxy Routing and Tor Traffic Privacy Analysis](labs/Proxy-Routing-and-Tor-Traffic-Privacy-Analysis/)
 - [Nmap and Greenbone Vulnerability Assessment](labs/Nmap-and-Greenbone-Vulnerability-Assessment/)
 - [DNS Data Exfiltration and Detection Analysis](labs/DNS-Data-Exfiltration-and-Detection-Analysis/)
+- [ICMP Covert-Channel Exfiltration and Detection Analysis](labs/ICMP-Covert-Channel-Exfiltration-and-Detection-Analysis/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
