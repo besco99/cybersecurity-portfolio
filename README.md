@@ -42,6 +42,7 @@ and blue team fundamentals.
 - [Secure Wireless Network and Guest Access Configuration](labs/Secure-Wireless-Network-and-Guest-Access-Configuration/)
 - [Windows Server DHCP Scope Design and Safe Configuration](labs/Windows-Server-DHCP-Scope-Design-and-Safe-Configuration/)
 - [Windows Server DNS Zones, Records, and DNSSEC](labs/Windows-Server-DNS-Zones-Records-and-DNSSEC/)
+- [Authorized Network Host Discovery with Angry IP Scanner](labs/Authorized-Network-Host-Discovery-with-Angry-IP-Scanner/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
