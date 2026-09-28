@@ -35,6 +35,7 @@ and blue team fundamentals.
 - [Windows Server 2022 Virtual Machine Deployment and Network Configuration](labs/Windows-Server-2022-Virtual-Machine-Deployment-and-Network-Configuration/)
 - [Cleartext FTP Credential Exposure Analysis with Wireshark](labs/Cleartext-FTP-Credential-Exposure-Analysis-with-Wireshark/)
 - [Network Device Configuration Backup and Recovery](labs/Network-Device-Configuration-Backup-and-Recovery/)
+- [Windows Defender Firewall Inbound Rule Configuration](labs/Windows-Defender-Firewall-Inbound-Rule-Configuration/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
