@@ -38,6 +38,7 @@ and blue team fundamentals.
 - [Windows Defender Firewall Inbound Rule Configuration](labs/Windows-Defender-Firewall-Inbound-Rule-Configuration/)
 - [VLAN Network Segmentation Design and Configuration](labs/VLAN-Network-Segmentation-Design-and-Configuration/)
 - [Web Content Filtering Policy Configuration and Analysis](labs/Web-Content-Filtering-Policy-Configuration-and-Analysis/)
+- [Secure Remote Administration with OpenSSH and PuTTY](labs/Secure-Remote-Administration-with-OpenSSH-and-PuTTY/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
