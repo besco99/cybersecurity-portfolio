@@ -36,6 +36,7 @@ and blue team fundamentals.
 - [Cleartext FTP Credential Exposure Analysis with Wireshark](labs/Cleartext-FTP-Credential-Exposure-Analysis-with-Wireshark/)
 - [Network Device Configuration Backup and Recovery](labs/Network-Device-Configuration-Backup-and-Recovery/)
 - [Windows Defender Firewall Inbound Rule Configuration](labs/Windows-Defender-Firewall-Inbound-Rule-Configuration/)
+- [VLAN Network Segmentation Design and Configuration](labs/VLAN-Network-Segmentation-Design-and-Configuration/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
