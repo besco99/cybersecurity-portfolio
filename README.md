@@ -37,6 +37,7 @@ and blue team fundamentals.
 - [Network Device Configuration Backup and Recovery](labs/Network-Device-Configuration-Backup-and-Recovery/)
 - [Windows Defender Firewall Inbound Rule Configuration](labs/Windows-Defender-Firewall-Inbound-Rule-Configuration/)
 - [VLAN Network Segmentation Design and Configuration](labs/VLAN-Network-Segmentation-Design-and-Configuration/)
+- [Web Content Filtering Policy Configuration and Analysis](labs/Web-Content-Filtering-Policy-Configuration-and-Analysis/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
