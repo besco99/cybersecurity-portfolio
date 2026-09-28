@@ -39,6 +39,7 @@ and blue team fundamentals.
 - [VLAN Network Segmentation Design and Configuration](labs/VLAN-Network-Segmentation-Design-and-Configuration/)
 - [Web Content Filtering Policy Configuration and Analysis](labs/Web-Content-Filtering-Policy-Configuration-and-Analysis/)
 - [Secure Remote Administration with OpenSSH and PuTTY](labs/Secure-Remote-Administration-with-OpenSSH-and-PuTTY/)
+- [Secure Wireless Network and Guest Access Configuration](labs/Secure-Wireless-Network-and-Guest-Access-Configuration/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
