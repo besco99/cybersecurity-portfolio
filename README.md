@@ -32,6 +32,7 @@ and blue team fundamentals.
 - [Secure SQL Query Remediation with Python and SQLite](labs/Secure-SQL-Query-Remediation-with-Python-and-SQLite/)
 - [Windows 10 Virtual Machine Deployment with VirtualBox](labs/Windows-10-Virtual-Machine-Deployment-with-VirtualBox/)
 - [Kali Linux Virtual Machine Deployment with VirtualBox](labs/Kali-Linux-Virtual-Machine-Deployment-with-VirtualBox/)
+- [Windows Server 2022 Virtual Machine Deployment and Network Configuration](labs/Windows-Server-2022-Virtual-Machine-Deployment-and-Network-Configuration/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
