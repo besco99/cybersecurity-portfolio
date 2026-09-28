@@ -40,6 +40,7 @@ and blue team fundamentals.
 - [Web Content Filtering Policy Configuration and Analysis](labs/Web-Content-Filtering-Policy-Configuration-and-Analysis/)
 - [Secure Remote Administration with OpenSSH and PuTTY](labs/Secure-Remote-Administration-with-OpenSSH-and-PuTTY/)
 - [Secure Wireless Network and Guest Access Configuration](labs/Secure-Wireless-Network-and-Guest-Access-Configuration/)
+- [Windows Server DHCP Scope Design and Safe Configuration](labs/Windows-Server-DHCP-Scope-Design-and-Safe-Configuration/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
