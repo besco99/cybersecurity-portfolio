@@ -31,6 +31,7 @@ and blue team fundamentals.
 - [HTTPS Data Exfiltration and Detection Analysis](labs/HTTPS-Data-Exfiltration-and-Detection-Analysis/)
 - [Secure SQL Query Remediation with Python and SQLite](labs/Secure-SQL-Query-Remediation-with-Python-and-SQLite/)
 - [Windows 10 Virtual Machine Deployment with VirtualBox](labs/Windows-10-Virtual-Machine-Deployment-with-VirtualBox/)
+- [Kali Linux Virtual Machine Deployment with VirtualBox](labs/Kali-Linux-Virtual-Machine-Deployment-with-VirtualBox/)
 
 ## WGU MSCSIA Labs
 - [D482 Secure Network Design - Monitoring Network Performance](WGU-MSCSIA/D482-Secure-Network-Design/Monitoring-Network-Performance/)
