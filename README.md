@@ -27,6 +27,7 @@ and blue team fundamentals.
 - [Proxy Routing and Tor Traffic Privacy Analysis](labs/Proxy-Routing-and-Tor-Traffic-Privacy-Analysis/)
 - [Nmap and Greenbone Vulnerability Assessment](labs/Nmap-and-Greenbone-Vulnerability-Assessment/)
 - [Greenbone Vulnerability Scan Scheduling and Reporting](labs/Greenbone-Vulnerability-Scan-Scheduling-and-Reporting/)
+- [Authorized Social Engineering Simulation with SET](labs/Authorized-Social-Engineering-Simulation-with-SET/)
 - [DNS Data Exfiltration and Detection Analysis](labs/DNS-Data-Exfiltration-and-Detection-Analysis/)
 - [ICMP Covert-Channel Exfiltration and Detection Analysis](labs/ICMP-Covert-Channel-Exfiltration-and-Detection-Analysis/)
 - [HTTPS Data Exfiltration and Detection Analysis](labs/HTTPS-Data-Exfiltration-and-Detection-Analysis/)
