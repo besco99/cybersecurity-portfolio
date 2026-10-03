@@ -8,6 +8,9 @@ and blue team fundamentals.
 - TryHackMe SOC and security rooms
 - Security-related scripts and documentation
 
+## CompTIA PenTest+ CertMaster Labs
+- [Lab Guide Coverage and Documentation Tracker](CompTIA-PenTest-Plus/)
+
 ## Cybersecurity Labs
 - [Simulated Password Cracking](labs/Simulated-Password-Cracking/)
 - [Simulated Windows Post-Exploitation and Privilege Analysis](labs/Simulated-Windows-Post-Exploitation/)
