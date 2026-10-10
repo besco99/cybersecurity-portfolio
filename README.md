@@ -31,6 +31,8 @@ and blue team fundamentals.
 - [Nmap and Greenbone Vulnerability Assessment](labs/Nmap-and-Greenbone-Vulnerability-Assessment/)
 - [Greenbone Vulnerability Scan Scheduling and Reporting](labs/Greenbone-Vulnerability-Scan-Scheduling-and-Reporting/)
 - [Authorized Social Engineering Simulation with SET](labs/Authorized-Social-Engineering-Simulation-with-SET/)
+- [Security Awareness and Credential-Harvesting Simulation](labs/Security-Awareness-and-Credential-Harvesting-Simulation/)
+- [File Integrity Monitoring with SHA-256](labs/File-Integrity-Monitoring-with-SHA-256/)
 - [DNS Data Exfiltration and Detection Analysis](labs/DNS-Data-Exfiltration-and-Detection-Analysis/)
 - [ICMP Covert-Channel Exfiltration and Detection Analysis](labs/ICMP-Covert-Channel-Exfiltration-and-Detection-Analysis/)
 - [HTTPS Data Exfiltration and Detection Analysis](labs/HTTPS-Data-Exfiltration-and-Detection-Analysis/)
