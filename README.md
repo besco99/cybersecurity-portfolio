@@ -34,6 +34,7 @@ and blue team fundamentals.
 - [Security Awareness and Credential-Harvesting Simulation](labs/Security-Awareness-and-Credential-Harvesting-Simulation/)
 - [File Integrity Monitoring with SHA-256](labs/File-Integrity-Monitoring-with-SHA-256/)
 - [Network Monitoring and Greenbone Scan Configuration](labs/Network-Monitoring-and-Greenbone-Scan-Configuration/)
+- [Host-Based Encryption with LUKS and Cryptsetup](labs/Host-Based-Encryption-with-LUKS-and-Cryptsetup/)
 - [DNS Data Exfiltration and Detection Analysis](labs/DNS-Data-Exfiltration-and-Detection-Analysis/)
 - [ICMP Covert-Channel Exfiltration and Detection Analysis](labs/ICMP-Covert-Channel-Exfiltration-and-Detection-Analysis/)
 - [HTTPS Data Exfiltration and Detection Analysis](labs/HTTPS-Data-Exfiltration-and-Detection-Analysis/)
