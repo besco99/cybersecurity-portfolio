@@ -62,6 +62,7 @@ and blue team fundamentals.
 - [D482 Secure Network Design - Network Management](WGU-MSCSIA/D482-Secure-Network-Design/Network-Management/)
 - [D482 Secure Network Design - Assessing the Impact of Web Application Vulnerabilities](WGU-MSCSIA/D482-Secure-Network-Design/Assessing-the-Impact-of-Web-Application-Vulnerabilities/)
 - [D484 Penetration Testing - Healthcare Penetration Testing Engagement Plan Review](WGU-MSCSIA/D484-Penetration-Testing/Healthcare-Penetration-Testing-Engagement-Plan-Review/)
+- [D485 Cloud Security - Azure Cloud Security Lab](WGU-MSCSIA/D485-Cloud-Security/Azure-Cloud-Security-Lab/)
 
 ## Skills Demonstrated
 - Network segmentation and routing
