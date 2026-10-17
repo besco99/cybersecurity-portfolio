@@ -61,6 +61,7 @@ and blue team fundamentals.
 - [D482 Secure Network Design - Network Security - Firewalls](WGU-MSCSIA/D482-Secure-Network-Design/Network-Security-Firewalls/)
 - [D482 Secure Network Design - Network Management](WGU-MSCSIA/D482-Secure-Network-Design/Network-Management/)
 - [D482 Secure Network Design - Assessing the Impact of Web Application Vulnerabilities](WGU-MSCSIA/D482-Secure-Network-Design/Assessing-the-Impact-of-Web-Application-Vulnerabilities/)
+- [D484 Penetration Testing - Healthcare Penetration Testing Engagement Plan Review](WGU-MSCSIA/D484-Penetration-Testing/Healthcare-Penetration-Testing-Engagement-Plan-Review/)
 
 ## Skills Demonstrated
 - Network segmentation and routing
