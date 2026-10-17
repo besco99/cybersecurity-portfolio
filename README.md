@@ -74,6 +74,7 @@ Cisco Packet Tracer, Splunk, Wireshark, Linux, MITRE ATT&CK
 - CompTIA Network+
 - COMPTIA SEC+
 - CompTIA CySA+
-- TryHackMe SOC Level 1 & 2
+- CompTIA Pentest+
+- CompTIA SecurityX
 - Splunk Core User
   
