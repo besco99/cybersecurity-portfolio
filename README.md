@@ -37,6 +37,7 @@ and blue team fundamentals.
 - [Host-Based Encryption with LUKS and Cryptsetup](labs/Host-Based-Encryption-with-LUKS-and-Cryptsetup/)
 - [SELinux Security Contexts and Access Control](labs/SELinux-Security-Contexts-and-Access-Control/)
 - [Blockchain Transaction and Ledger Analysis](labs/Blockchain-Transaction-and-Ledger-Analysis/)
+- [Digital Signatures and Verification with OpenSSL](labs/Digital-Signatures-and-Verification-with-OpenSSL/)
 - [DNS Data Exfiltration and Detection Analysis](labs/DNS-Data-Exfiltration-and-Detection-Analysis/)
 - [ICMP Covert-Channel Exfiltration and Detection Analysis](labs/ICMP-Covert-Channel-Exfiltration-and-Detection-Analysis/)
 - [HTTPS Data Exfiltration and Detection Analysis](labs/HTTPS-Data-Exfiltration-and-Detection-Analysis/)
