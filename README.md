@@ -41,6 +41,7 @@ and blue team fundamentals.
 - [Certificate Authority Functions and Certificate Issuance](labs/Certificate-Authority-Functions-and-Certificate-Issuance/)
 - [Access Control and Linux Sudo Privilege Management](labs/Access-Control-and-Linux-Sudo-Privilege-Management/)
 - [DNS Security and Zone Transfer Exposure Analysis](labs/DNS-Security-and-Zone-Transfer-Exposure-Analysis/)
+- [Secure Development and npm Dependency Audit Analysis](labs/Secure-Development-and-npm-Dependency-Audit-Analysis/)
 - [DNS Data Exfiltration and Detection Analysis](labs/DNS-Data-Exfiltration-and-Detection-Analysis/)
 - [ICMP Covert-Channel Exfiltration and Detection Analysis](labs/ICMP-Covert-Channel-Exfiltration-and-Detection-Analysis/)
 - [HTTPS Data Exfiltration and Detection Analysis](labs/HTTPS-Data-Exfiltration-and-Detection-Analysis/)
