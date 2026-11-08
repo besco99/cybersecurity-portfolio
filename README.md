@@ -44,6 +44,7 @@ and blue team fundamentals.
 - [Secure Development and npm Dependency Audit Analysis](labs/Secure-Development-and-npm-Dependency-Audit-Analysis/)
 - [Cron and Scheduled Tasks: Linux Log Collection](labs/Cron-and-Scheduled-Tasks-Linux-Log-Collection/)
 - [Cloud Automation: Running NGINX with Docker](labs/Cloud-Automation-Running-NGINX-with-Docker/)
+- [Injection Vulnerabilities and Persistent XSS Analysis](labs/Injection-Vulnerabilities-and-Persistent-XSS-Analysis/)
 - [DNS Data Exfiltration and Detection Analysis](labs/DNS-Data-Exfiltration-and-Detection-Analysis/)
 - [ICMP Covert-Channel Exfiltration and Detection Analysis](labs/ICMP-Covert-Channel-Exfiltration-and-Detection-Analysis/)
 - [HTTPS Data Exfiltration and Detection Analysis](labs/HTTPS-Data-Exfiltration-and-Detection-Analysis/)
