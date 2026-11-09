@@ -45,6 +45,7 @@ and blue team fundamentals.
 - [Cron and Scheduled Tasks: Linux Log Collection](labs/Cron-and-Scheduled-Tasks-Linux-Log-Collection/)
 - [Cloud Automation: Running NGINX with Docker](labs/Cloud-Automation-Running-NGINX-with-Docker/)
 - [Injection Vulnerabilities and Persistent XSS Analysis](labs/Injection-Vulnerabilities-and-Persistent-XSS-Analysis/)
+- [Confidentiality Management and Windows Code-Signature Review](labs/Confidentiality-Management-and-Windows-Code-Signature-Review/)
 - [DNS Data Exfiltration and Detection Analysis](labs/DNS-Data-Exfiltration-and-Detection-Analysis/)
 - [ICMP Covert-Channel Exfiltration and Detection Analysis](labs/ICMP-Covert-Channel-Exfiltration-and-Detection-Analysis/)
 - [HTTPS Data Exfiltration and Detection Analysis](labs/HTTPS-Data-Exfiltration-and-Detection-Analysis/)
